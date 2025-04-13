@@ -1,30 +1,21 @@
-<h2 align="center">Hi there! I'm a cross-platform developer who loves building apps & games 🚀</h2>
+### 👋 Hello there! I'm a passionate developer specializing in **Flutter**
 
----
-
-### 👨‍💻 About Me
-
-I'm a passionate software developer specializing in **Flutter** for building beautiful and efficient cross-platform mobile applications.  
-Currently diving deeper into the world of **native development** with **Kotlin + Jetpack (Android)** and **Swift (iOS)**.
-
-I also enjoy crafting web applications using **Laravel** and **React.js**, and I'm comfortable writing **basic REST APIs with Node.js**.
-
----
-
-### 🎮 Beyond the Code
-
-When I’m not coding mobile or web apps, you’ll find me building immersive **Roblox games** with Lua, or experimenting with **modding tools** to tweak and expand other games.  
-Game development is not just a hobby — it’s a playground for creativity and problem-solving.
+- 🚀 Experienced in building cross-platform apps with Flutter
+- 🔧 Currently exploring **Native Android (Kotlin + Jetpack)** and **iOS (Swift)**
+- 🌐 Comfortable with **Laravel** and **React.js** for web development
+- 🔗 Able to build basic APIs using **Node.js**
+- 🧩 Hobbyist game developer, building experiences in **Roblox**
+- 🎮 Interested in game modding and exploring how games work under the hood
+- 💡 Always curious and learning something new
 
 ---
 
 ### 🛠 Tech Stack
-
-- **Mobile**: Flutter, Kotlin (Jetpack), Swift  
-- **Web**: Laravel, React.js  
-- **Backend**: Node.js (REST APIs)  
-- **Game Dev**: Roblox Studio (Lua), Game modding  
-- **Tools**: Git, Firebase, Figma, VS Code, Postman
+**Mobile:** Flutter, Kotlin (Jetpack), Swift  
+**Web:** Laravel, React.js  
+**Backend:** Node.js , REST APIs  
+**Game Dev:** Roblox Studio (Lua), Modding tools  
+**Tools:** Git, Figma, Firebase, VS Code  
 
 ---
 
@@ -38,7 +29,7 @@ Game development is not just a hobby — it’s a playground for creativity and 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tangtikon&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangtikon&layout=compact&theme=radical" alt="Top Languages" />
 </p>
