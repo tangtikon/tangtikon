@@ -30,8 +30,8 @@ Game development is not just a hobby — it’s a playground for creativity and 
 
 ### 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/-yourmail@example.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yourmail@example.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![Email](https://img.shields.io/badge/-yourmail@example.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tangtikon@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tangtikon-intisan-9b35a2244/)
 
 ---
 
